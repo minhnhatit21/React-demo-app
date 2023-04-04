@@ -1,6 +1,6 @@
-import React from 'React'
+import React from 'react'
 import ReactDom from 'react-dom/client'
-import App from './App.js'
+import App from './App'
 
 const el = document.getElementById('root');
 
